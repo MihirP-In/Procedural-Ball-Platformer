@@ -26,7 +26,7 @@ Watch the complete gameplay demonstration:
 
 Terrain segments follow a predefined sequence to create a visual progression from morning through evening and night, then back to morning.
 
-[**Watch the time transition**](https://www.youtube.com/watch?v=dor7iCDCUKw)
+[**Watch the time transition**](https://www.youtube.com/watch?v=H1KSeOUtNak)
 
 ### 2. Vertical Impact Squash
 
@@ -38,7 +38,7 @@ Demonstrates the ball's vertical squash response when colliding with a vertical 
 
 Demonstrates the ball's horizontal squash response when colliding with a horizontal obstacle.
 
-[**Watch horizontal impact deformation**](https://www.youtube.com/watch?v=H1KSeOUtNak)
+[**Watch horizontal impact deformation**](https://www.youtube.com/watch?v=dor7iCDCUKw)
 
 ## Technical Implementation
 
