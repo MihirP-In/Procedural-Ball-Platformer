@@ -7,7 +7,7 @@ This project explores gameplay programming, physics interactions, procedural env
 ## Gameplay
 
 Watch the complete gameplay demonstration:
-
+![Gameplay — ball jumping over an obstacle](ScreenShots/HeroShot.png)
 [**Watch Gameplay on YouTube**](https://www.youtube.com/watch?v=lYtG4kdCRqs)
 
 ## Features
@@ -22,7 +22,7 @@ Watch the complete gameplay demonstration:
 
 ## Technical Demonstrations
 
-### 1. Time-of-Day Transition
+### 1. Time Transition
 
 Terrain segments follow a predefined sequence to create a visual progression from morning through evening and night, then back to morning.
 
@@ -32,13 +32,19 @@ Terrain segments follow a predefined sequence to create a visual progression fro
 
 Demonstrates the ball's vertical squash response when colliding with a vertical obstacle.
 
+![Vertical squash on impact](ScreenShots/VerticalSquash.png)
 [**Watch vertical impact deformation**](https://www.youtube.com/watch?v=1Xx2mnWd6sI)
 
 ### 3. Horizontal Impact Squash
 
 Demonstrates the ball's horizontal squash response when colliding with a horizontal obstacle.
 
+![Horizontal squash on impact](ScreenShots/HorizontalSquash.png)
 [**Watch horizontal impact deformation**](https://www.youtube.com/watch?v=dor7iCDCUKw)
+
+### Game Over
+
+![Game over screen](ScreenShots/GameOver.png)
 
 ## Technical Implementation
 
